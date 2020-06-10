@@ -28,7 +28,7 @@ For more information please see the wiki.
 * **Mick van Eerd** - *Initial work* [xmicks](https://github.com/xmicks)
 * **Tim van Osch** - *Initial work* - [Timvosch](https://github.com/timvosch) | [Pollex\'](https://github.com/Pollex)
 
-See also the list of [contributors](https://github.com/multiflexmeter/mfm-h/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/multiflexmeter/mfm-gprs/contributors) who participated in this project.
 
 ## License
 
