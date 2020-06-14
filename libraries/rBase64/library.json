@@ -1,0 +1,22 @@
+{
+  "name": "rBase64",
+  "version": "1.1.1",
+  "keywords": "BASE64, base64, encoding, decoding",
+  "description": "Real BASE64 Function Library (Generic). Helps to Encode and Decode in BASE64 form using simple String operations",
+  "authors" : [
+    {
+      "name": "Abhijit Bose (@boseji)",
+      "email": "salearj@hotmail.com",
+      "url": "https://boseji.com"
+    }
+  ],
+  "export": {
+    "include": "libraries/rBASE64"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boseji/rBASE64.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
